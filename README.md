@@ -1,7 +1,5 @@
 # STUDY-OF-MICROWAVE-COMPONENTS-AND-INSTRUMENTS
 
-
-
 ## Aim:
 To become familiar with microwave components and instruments available in the laboratory.
 
@@ -22,7 +20,6 @@ Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted secti
 	Study basic principle of operation of devices and components.
 	Know typical application of each component.
 	Identify the E field and H field mode patterns in these devices.
-
 
 ## Theory
 
@@ -45,9 +42,6 @@ Attenuator, circulator, Isolator, Waveguide twist, Magic Tee, E plane, H plane T
 12.	E and H Plane Tee
 13.	Matched Termination
 14.	Waveguide to coaxial adapter
-
-
-
 
 ## INTRODUCTION
 
@@ -72,9 +66,6 @@ The reflex klystron, shown in Fig., employs a somewhat different stratagem to ex
             the falling electrons yield most of their
 
 energy to the oscillating electric field appearing across the cavity grids. Such electrons are subsequently collected by the cavity grids, which in this function behave as the plate of an ordinary diode. Inasmuch as the spent electrons do not fall into the positive field of the control grid, a profound dip in control-grid current accompanies the onset of oscillation within the cavity.
-
- 
- 
 
 ### 3.	Isolator:
 The microwave test bench includes an attenuator, and an isolator. Both of these help to stop the reflected power from reaching the oscillator and pulling the frequency of the cavity and Gunn diode off tune when the load impedance is varied. An isolator is a two port device that transmits microwave or radio frequency power in one direction only. It is used to shield equipment on its input side, from the effects of conditions on its output side; for example, to prevent a microwave source being detuned by a mismatched load. An ideal isolator transmits all the power entering port 1 to port 2, while absorbing all the power entering port 2.
@@ -249,6 +240,4 @@ These adapters consist of a short section of waveguide with a probe transition c
 
 
 ## Conclusions:
-Thus,the experiment is studied and verified
-
-
+Thus,the experiment is studied and verified.
